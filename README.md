@@ -1,0 +1,2 @@
+# newHangman
+Practicing Javascript
